@@ -2,4 +2,4 @@ I have attached the KiCAD Schematic of my project. In my actual project I have d
 
 I have also added 8051 file if any one want to do it using 8051. The name of the file is proj.asm
 
-The Gerber files of PCB are in pdf format, but you can also save it in .grb format by opening the project.
+The Gerber files of PCB are in pdf format, but you can also save it in .gbr format by opening the project.
